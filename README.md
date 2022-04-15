@@ -5,10 +5,10 @@
 
 ### What I'm using ? 🛠
 
-I'm working on AWS-DevOps.
+I am AWS-DevOps Trainee.
 <br/>
 
-- Python, HTML5, CSS3, Linux, SQL, Git, GitHub
+- Python, HTML5, CSS3, Linux, SQL, Git, GitHub, Jira
 
 - 💬 Ask  me about anything that you want to learn
 
@@ -40,9 +40,9 @@ I'm working on AWS-DevOps.
 </p>
 ## 📈 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Betul-Kaplan&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Betul-kaplan&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betul-Kaplan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=F.Esra&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=F.Esra&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F.Esra&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
 
