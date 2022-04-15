@@ -8,7 +8,7 @@
 I am AWS-DevOps Trainee.
 <br/>
 
-- Python, HTML5, CSS3, Linux, SQL, Git, GitHub, Jira
+- Python, HTML5, CSS3, Linux, SQL, Git, GitHub, Jira, Slack
 
 - 💬 Ask  me about anything that you want to learn
 
@@ -39,6 +39,7 @@ I am AWS-DevOps Trainee.
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="48"/> </a>
 </p>
 ## 📈 Statistics
+ 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=F1404&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=F1404&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
