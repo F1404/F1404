@@ -38,11 +38,11 @@ I'm working on AWS-DevOps.
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="48"/> </a> 
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="48"/> </a>
 </p>
-
-
 ## 📈 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=F.Esra-F1404&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=F.Esra-F1404&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F.Esra-F1404&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Betul-Kaplan&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Betul-kaplan&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betul-Kaplan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
+
 
