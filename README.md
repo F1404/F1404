@@ -1,22 +1,3 @@
-<p align="center">
- <a href="https://www.brunobrito.net.br">
-    < img src="https://github.com/Fatma Esra/Fatma Esra/blob/master/foote.png?raw=true" alt="Blog" / >
-  </a>
-</p>
-
-<p align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=TOSUN+F.Esra;Mother+%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6;Microsoft+MVP;Software+craftsmanship+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84" />
-
-</p>
-
-
-
-Nice to meet you, my name is Fatma Esra and I believe in well done crafted software.
-
-I'm a software developer passionate for <b>#opensource</b>, <b>#code</b> & <b>#secure-coding</b>. In recent years I have been writing, speaking and working in some open source projects. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
-
-
-
 ## <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> F.Esra
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatma-esra-usanmaz-tosun/) 
 <a href="https://.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=isim" alt="visitor counter" width="15%"/>
