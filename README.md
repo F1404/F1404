@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://www.brunobrito.net.br">
-    <!--a img src="https://github.com/Fatma Esra/Fatma Esra/blob/master/foote.png?raw=true" alt="Blog" / --a >
+    < img src="https://github.com/Fatma Esra/Fatma Esra/blob/master/foote.png?raw=true" alt="Blog" / >
   </a>
 </p>
 
